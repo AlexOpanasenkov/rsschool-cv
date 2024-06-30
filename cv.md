@@ -27,10 +27,10 @@ Learning JavaScript in Rolling Scopes School
 
 ----
 ### Coursers:
-ROLLING SCOPES SCHOOL in 2023
+ROLLING SCOPES SCHOOL in 2024
 
 ### Lenguages:
-* English - Intermediate<br>
-* Slovak - Intermideate<br>
-* Ukrainian - Native<br>
-* Russian - Native
+* English - A1<br>
+* Slovak - B1<br>
+* Ukrainian - C2<br>
+* Russian - C2
