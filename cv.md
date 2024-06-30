@@ -23,7 +23,7 @@ Learning JavaScript in Rolling Scopes School
 ### Scills of proficiency:
 * HTML5, CSS3<br>
 * GitHub<br>
-* Figma, Adobe Photoshop
+* Figma
 
 ----
 ### Coursers:
