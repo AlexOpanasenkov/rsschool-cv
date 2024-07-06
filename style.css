@@ -27,30 +27,31 @@ hr {
 	margin: 0;
 }
 .wrapper {
-    max-width: 1044px;
-    margin: 0 auto;
-    margin-right: 50px;
-    margin-left: 50px;
-    border: 1px dashed red;
+	margin: 0 auto;
+	max-width: 1044px;
+  margin-right: 50px;
+  margin-left: 50px;
+  border: 1px dashed red;
 }
 .header {
-    margin: 0 auto;
+  margin: 0 auto;
 }
 .header-top {
-    display: flex;
-    justify-content: space-around;
-    flex-direction: row;
-    border: 1px dashed red;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  border: 1px dashed red;
 }
 .logo-img {
-    box-sizing: border-box;
-    width: 20%;
-    border-radius: 50%;
+box-sizing: border-box;
+width: 20%;
+border-radius: 50%;
 }
 .logo-text {
-    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
-    font-size: 45px;
-    padding-top: 110px;
-    text-rendering: optimizeLegibility;
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size: 45px;
+  padding-top: 110px;
+  text-rendering: optimizeLegibility;
 }
+
 
