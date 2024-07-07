@@ -40,7 +40,6 @@ hr {
   justify-content: space-around;
   flex-direction: row;
 	margin-bottom: 30px;
-  border: 1px dashed red;
 }
 .logo-img {
   box-sizing: border-box;
@@ -58,28 +57,15 @@ hr {
 	font-size: 35px;
 	margin-bottom: 30px;
 }
-.header-bottom {
-  border: 1px dashed red;
-}
-.menu-nav {
-  border: 1px dashed red;
-}
 .menu-nav_link {
   display: flex;
   justify-content: space-around;
   padding: 5px 0;
-  border: 1px dashed red;
 }
-/* li {
-  display: flex;
-  justify-content: space-around;
-  border: 1px dashed red;
-} */
 .menu-nav__link_item {
 	font-family: 'Montserrat', Arial, Helvetica, sans-serif;    
   font-size: 20px;
 	font-weight: 500;
-	/* margin-right: 56px; */
 	white-space: nowrap;
 }
 .main {
@@ -108,8 +94,6 @@ hr {
 	font-weight: 800;
 	font-size: 30px;
 	line-height: 30px;
-	/* margin-left: auto;
-  margin-right: auto; */
 	padding-bottom: 10px;
 }
 .main__item-center {
