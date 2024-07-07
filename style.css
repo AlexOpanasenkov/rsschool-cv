@@ -40,12 +40,13 @@ hr {
   display: flex;
   justify-content: space-around;
   flex-direction: row;
+	margin-bottom: 30px;
   border: 1px dashed red;
 }
 .logo-img {
-box-sizing: border-box;
-width: 20%;
-border-radius: 50%;
+  box-sizing: border-box;
+  width: 20%;
+  border-radius: 50%;
 }
 .logo-text {
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
@@ -53,5 +54,46 @@ border-radius: 50%;
   padding-top: 110px;
   text-rendering: optimizeLegibility;
 }
-
-
+.logo-description {
+	text-align: center;
+	font-size: 35px;
+	margin-bottom: 30px;
+}
+.header-bottom {
+  border: 1px dashed red;
+}
+.menu-nav {
+  border: 1px dashed red;
+}
+.menu-nav_link {
+  display: flex;
+  justify-content: space-around;
+  padding: 5px 0;
+  border: 1px dashed red;
+}
+li {
+  display: flex;
+  justify-content: space-around;
+  border: 1px dashed red;
+}
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+.main-description {
+  display: block;
+  width: 40%;
+  margin-bottom: 30px;
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  line-height: 40px;
+}
+.main-description::before {
+	display: block;
+	content: '';
+	border-top: 2px solid gray;
+	margin-bottom: 20px;
+}
+  
