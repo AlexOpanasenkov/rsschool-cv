@@ -1,4 +1,121 @@
-img {
-    height: 200px;
-    width: 200px;
+html {
+	scroll-behavior: smooth;
+}
+body{
+	margin: 0 auto;
+	background: #fff;
+	color: #000;
+	font: 12px/14px arial, helvetica, sans-serif;
+	min-width: 960px;
+	display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+h1, h2, h3, h4, h5, h6, p{
+	margin: 0;
+}
+ul, ol{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+a{
+	color: #000;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: none;
+}
+a:visited, a:link, a:active{
+	color: #000;
+}
+hr {
+	margin: 0;
+}
+.container {
+	margin: 0 auto;
+	max-width: 1044px;
+}
+.header {
+  margin: 0 auto;
+}
+.header-top {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+	margin-bottom: 30px;
+}
+.logo-img {
+  box-sizing: border-box;
+  width: 20%;
+  border-radius: 50%;
+}
+.logo-text {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size: 45px;
+  padding-top: 110px;
+  text-rendering: optimizeLegibility;
+}
+.logo-description {
+	text-align: center;
+	font-size: 35px;
+	margin-bottom: 30px;
+}
+.menu-nav_link {
+  display: flex;
+  justify-content: space-around;
+  padding: 5px 0;
+	margin-bottom: 30px;
+}
+.menu-nav__link_item {
+	font-family: 'Montserrat', Arial, Helvetica, sans-serif;    
+  font-size: 20px;
+	font-weight: 500;
+	white-space: nowrap;
+}
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+.main-description {
+  display: block;
+  width: 40%;
+  margin-bottom: 30px;
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  line-height: 40px;
+}
+.main-description::before {
+	display: block;
+	content: '';
+	border-top: 2px solid gray;
+	margin-bottom: 20px;
+}
+.main-description__item {
+	font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+	font-weight: 800;
+	font-size: 30px;
+	line-height: 30px;
+	padding-bottom: 10px;
+}
+.main__item-center {
+	display: block;
+	font-size: 30px;
+	line-height: 30px;
+}
+.footer {
+	display: flex;
+	justify-content: space-around;
+	background-color: gray;
+	vertical-align: middle;
+}
+.footer_logo-rsschool-img {
+	box-sizing: border-box;
+	width: 10%;
+}
+.footer__link-github, .footer__year, .footer__link-course {
+	margin-top: 15px;
+  font-size: 20px;
 }
