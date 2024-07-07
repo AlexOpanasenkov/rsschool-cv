@@ -1,9 +1,15 @@
+html {
+	scroll-behavior: smooth;
+}
 body{
 	margin: 0 auto;
 	background: #fff;
 	color: #000;
 	font: 12px/14px arial, helvetica, sans-serif;
 	min-width: 960px;
+	display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 h1, h2, h3, h4, h5, h6, p{
 	margin: 0;
@@ -26,11 +32,9 @@ a:visited, a:link, a:active{
 hr {
 	margin: 0;
 }
-.wrapper {
+.container {
 	margin: 0 auto;
 	max-width: 1044px;
-  /* margin-right: 50px;
-  margin-left: 50px; */
 }
 .header {
   margin: 0 auto;
@@ -61,6 +65,7 @@ hr {
   display: flex;
   justify-content: space-around;
   padding: 5px 0;
+	margin-bottom: 30px;
 }
 .menu-nav__link_item {
 	font-family: 'Montserrat', Arial, Helvetica, sans-serif;    
@@ -73,7 +78,6 @@ hr {
   flex-wrap: wrap;
   margin: 0 auto;
   justify-content: space-between;
-	border: 1px dashed green;
 }
 .main-description {
   display: block;
@@ -100,4 +104,18 @@ hr {
 	display: block;
 	font-size: 30px;
 	line-height: 30px;
+}
+.footer {
+	display: flex;
+	justify-content: space-around;
+	background-color: gray;
+	vertical-align: middle;
+}
+.footer_logo-rsschool-img {
+	box-sizing: border-box;
+	width: 10%;
+}
+.footer__link-github, .footer__year, .footer__link-course {
+	margin-top: 15px;
+  font-size: 20px;
 }
