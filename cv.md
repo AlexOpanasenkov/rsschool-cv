@@ -1,0 +1,36 @@
+# rsschool-cv
+---------
+
+# Oleksandr Opanasenkov
+----
+## Junior Front-End Developer
+----
+### Contact information:
+
+Phone: +421 95 130 83 77<br>
+
+
+email: a.opanasenkov@gmail.com<br>
+
+[LinkedIn](https://www.linkedin.com/in/oleksandr-opanasenkov-853a56221/)
+
+---
+### Briefly about myself:<br>
+
+Learning JavaScript in Rolling Scopes School
+
+---
+### Scills of proficiency:
+* HTML5, CSS3<br>
+* GitHub<br>
+* Figma
+
+----
+### Coursers:
+ROLLING SCOPES SCHOOL in 2024
+
+### Lenguages:
+* English - A1<br>
+* Slovak - B1<br>
+* Ukrainian - C2<br>
+* Russian - C2
