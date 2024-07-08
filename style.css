@@ -27,9 +27,6 @@ a{
 a:hover{
 	text-decoration: none;
 }
-a:visited, a:link, a:active{
-	color: #000;
-}
 hr {
 	margin: 0;
 }
@@ -67,11 +64,13 @@ hr {
   justify-content: space-around;
   padding: 5px 0;
 	margin-bottom: 30px;
+	background-color: #80808059;
 }
 .menu-nav__link_item {
 	font-family: 'Montserrat', Arial, Helvetica, sans-serif;    
   font-size: 20px;
-	font-weight: 500;
+	font-weight: 700;
+	margin-right: 10px;
 	white-space: nowrap;
 }
 .main {
@@ -101,10 +100,17 @@ hr {
 	line-height: 30px;
 	padding-bottom: 10px;
 }
+.main-description_link {
+	white-space: nowrap;
+}
 .main__item-center {
 	display: block;
 	font-size: 30px;
 	line-height: 30px;
+}
+.main__item-center_activ {
+	border-radius: 10%;
+	background-color: #80808059;
 }
 .footer {
 	display: flex;
