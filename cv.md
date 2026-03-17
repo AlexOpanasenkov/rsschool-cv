@@ -8,3 +8,9 @@
 ### Contact information:
 
 Phone: +421 95 130 83 77<br>
+
+email: a.opanasenkov@gmail.com<br>
+
+[LinkedIn](https://www.linkedin.com/in/oleksandr-opanasenkov-853a56221/)
+
+---
