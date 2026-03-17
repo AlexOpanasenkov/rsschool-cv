@@ -1,1 +1,1 @@
-https://AlexOpanasenkov.github.io/rsschool-cv2026/cv
+https://AlexOpanasenkov.github.io/rsschool-cv/cv
