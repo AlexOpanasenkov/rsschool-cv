@@ -1,1 +1,1 @@
-# rsschool-cv2026
+https://AlexOpanasenkov.github.io/rsschool-cv/cv
