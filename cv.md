@@ -1,4 +1,4 @@
-# rsschool-cv2026
+# rsschool-cv
 ---------
 
 # Oleksandr Opanasenkov
